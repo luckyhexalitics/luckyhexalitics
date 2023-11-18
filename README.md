@@ -13,7 +13,7 @@ Feel free to contact me via [e-mail](mailto:lucky.verma@hexalitics.com). I'm **a
 
 ![Swift](https://img.shields.io/badge/%20Swift%20-E57141.svg)
 
-<p align="center">
+<p>
 <a href="https://github.com/luckyhexalitics">
   <img height="160em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=luckyhexalitics&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luckyhexalitics&layout=compact&langs_count=8&theme=algolia"/>
