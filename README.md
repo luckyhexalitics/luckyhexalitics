@@ -20,8 +20,9 @@ Feel free to contact me via [e-mail](mailto:lucky.verma@hexalitics.com). I'm **a
 - [▲ React Static Clutch Embed](https://github.com/konhi/react-static-clutch-embed): Say goodbye to iframes! Save +400 KBs (network) & +250 ms (rendering) while embeding Clutch.co widgets.
 
 ## ✨ Projects
-- [🔌 IoT-based smart energy consumption monitor](https://github.com/konhi/school-iot-contest): **(progressive) web app** available on desktop and mobile - **InfluxDB**, **Grafana**, **React**, **Next.js**, **MUI**, **Vercel**... and more!
-- [📰 School News to Discord](https://github.com/ElektronPlus/zseis-news): **serverless** website parser that sends announcements to students - uses **GitHub Actions** (CI/CD), **Discord.js** (API), **Jest** (tests)
+- [Doorways](https://github.com/luckyhexalitics/Doorways)
+- [Apple Maps Sample](https://github.com/hexalitics/AppleMapsSample)
+- [Timer App](https://github.com/luckyhexalitics/TimerApp)
 
 ## 👨‍🎨 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
