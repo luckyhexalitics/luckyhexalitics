@@ -1,12 +1,5 @@
 # 👋 Hey! I'm Lucky Verma
 
-<p align="center">
-<a href="https://github.com/luckyhexalitics">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luckyhexalitics&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luckyhexalitics&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ![23 years old](https://img.shields.io/badge/-%F0%9F%A7%81%2023%20years%20old%20-pink?style=for-the-badge) ![Programming Student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20programming%20student%20(3/5%20year)-blueviolet?style=for-the-badge) ![E-mail](https://img.shields.io/badge/-%F0%9F%93%A7%20lucky.verma%40hexalitics.com-9cf?style=for-the-badge)
 
 I'm actively looking for:
@@ -19,6 +12,13 @@ Feel free to contact me via [e-mail](mailto:lucky.verma@hexalitics.com). I'm **a
 ---
 
 ![Swift](https://img.shields.io/badge/%20Swift%20-E57141.svg)
+
+<p align="center">
+<a href="https://github.com/luckyhexalitics">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luckyhexalitics&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luckyhexalitics&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## 👨‍💻 For Developers
 
