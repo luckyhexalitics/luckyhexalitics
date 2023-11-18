@@ -11,7 +11,7 @@ Feel free to contact me via [e-mail](mailto:lucky.verma@hexalitics.com). I'm **a
 
 ---
 
-![Swift](https://img.shields.io/badge/%20Swift%20-E57141.svg)
+<!--- ![Swift](https://img.shields.io/badge/%20Swift%20-E57141.svg) -->
 
 <p>
 <a href="https://github.com/luckyhexalitics">
