@@ -11,8 +11,7 @@ Feel free to contact me via [e-mail](mailto:lucky.verma@hexalitics.com). I'm **a
 
 ---
 
-![Swift](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Swift](https://img.shields.io/badge/%20Swift%20-E57141.svg)
 
 ## 👨‍💻 For Developers
 
